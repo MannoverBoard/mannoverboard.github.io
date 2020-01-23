@@ -1,0 +1,9 @@
+.sass-cache/
+.jekyll-metadata
+node_modules
+.vscode
+_site/
+*.swp
+.jekyll-cache
+*.lock
+.ruby-version
